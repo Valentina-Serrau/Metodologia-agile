@@ -1,16 +1,5 @@
+
 # Metodologia Agile
-
-Nell'ingegneria del software, l'espressione metodologia agile (o sviluppo agile del software, in inglese agile software development,
-abbreviato in ASD) si riferisce a un insieme di metodi di sviluppo del software emersi a partire dai primi anni 2000 e fondati
-su insieme di principi comuni, direttamente o indirettamente derivati dai princìpi del "Manifesto per lo sviluppo agile del software"
-(Manifesto for Agile Software Development, impropriamente chiamato anche "Manifesto Agile") pubblicato nel 2001 da Kent Beck, Robert C.
-Martin, Martin Fowler e altri.
-I metodi agili si contrappongono al modello a cascata e altri processi software tradizionali, proponendo un approccio meno strutturato
-e focalizzato sull'obiettivo di consegnare al cliente, in tempi brevi e frequentemente, software funzionante e di qualità.
-
-Fra le pratiche promosse dai metodi agili ci sono la formazione di team di sviluppo piccoli, cross-funzionali e auto-organizzati,
-lo sviluppo iterativo e incrementale, la pianificazione adattiva, e il coinvolgimento diretto e continuo del cliente nel processo di 
-sviluppo.
 
 ##Obiettivi
 

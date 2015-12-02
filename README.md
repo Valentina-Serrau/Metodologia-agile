@@ -1,0 +1,38 @@
+# Metodologia Agile
+
+Nell'ingegneria del software, l'espressione metodologia agile (o sviluppo agile del software, in inglese agile software development,
+abbreviato in ASD) si riferisce a un insieme di metodi di sviluppo del software emersi a partire dai primi anni 2000 e fondati
+su insieme di principi comuni, direttamente o indirettamente derivati dai princìpi del "Manifesto per lo sviluppo agile del software"
+(Manifesto for Agile Software Development, impropriamente chiamato anche "Manifesto Agile") pubblicato nel 2001 da Kent Beck, Robert C.
+Martin, Martin Fowler e altri.
+I metodi agili si contrappongono al modello a cascata e altri processi software tradizionali, proponendo un approccio meno strutturato
+e focalizzato sull'obiettivo di consegnare al cliente, in tempi brevi e frequentemente, software funzionante e di qualità.
+
+Fra le pratiche promosse dai metodi agili ci sono la formazione di team di sviluppo piccoli, cross-funzionali e auto-organizzati,
+lo sviluppo iterativo e incrementale, la pianificazione adattiva, e il coinvolgimento diretto e continuo del cliente nel processo di 
+sviluppo.
+
+##Obiettivi
+
+L'obiettivo è la piena soddisfazione del cliente e non solo l'adempimento di un contratto. Il corretto uso di queste metodologie, 
+inoltre, può consentire di abbattere i costi e i tempi di sviluppo del software, aumentandone la qualità.
+
+Essa è esplosa proprio in concomitanza con la crisi successiva al boom di Internet prendendo spunto dai metodi applicati in piccole
+software house.
+
+##Principi
+
+I principi su cui si basa una metodologia agile che segua i punti indicati dall'Agile Manifesto, sono solo quattro:
+1)le persone e le interazioni sono più importanti dei processi e degli strumenti (ossia le relazioni e la comunicazione tra gli attori
+di un progetto software sono la miglior risorsa del progetto);
+2)è più importante avere software funzionante che documentazione (bisogna rilasciare nuove versioni del software ad intervalli frequenti,
+e bisogna mantenere il codice semplice e avanzato tecnicamente, riducendo la documentazione al minimo indispensabile);
+3)bisogna collaborare con i clienti oltre che rispettare il contratto (la collaborazione diretta offre risultati migliori dei rapporti
+contrattuali);
+4)bisogna essere pronti a rispondere ai cambiamenti oltre che aderire alla pianificazione (quindi il team di sviluppo dovrebbe essere 
+pronto, in ogni momento, a modificare le priorità di lavoro nel rispetto dell'obiettivo finale).
+
+In sintesi, l'Agile Manifesto, sottolinea l'importanza dei su citati principi fermo restando il valore di processi, strumenti, 
+documentazione, contratti e pianificazione.
+
+

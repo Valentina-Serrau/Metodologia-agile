@@ -1,5 +1,5 @@
 
-<font color=”#0000FF”># Metodologia Agile</font>
+# Metodologia Agile
 
 ##Obiettivi
 
